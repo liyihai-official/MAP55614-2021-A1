@@ -12,7 +12,7 @@ The purpose of this is so that you can see both approaches. We will discuss the 
 
 The Gaussian distribution, $N (μ, σ^2)$, has probability density function
 
-高斯分布，$N(μ, σ^2)$，有概率密度函数
+高斯分布, $N(μ, σ^2)$, 有概率密度函数
 
 $$\phi(x) = \frac{1}{\displaystyle \sigma \sqrt{2\pi}} e^{\displaystyle -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}$$
 
