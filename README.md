@@ -10,7 +10,7 @@ The purpose of this is so that you can see both approaches. We will discuss the 
 你将为类编写一些成员函数定义，以及提供相同功能的一些非成员函数。
 其目的是让你能看到两种方法。稍后我们将讨论这些方法的优点。
 
-The Gaussian distribution, $N (μ, σ2)$, has probability density function
+The Gaussian distribution, $N (μ, σ^2)$, has probability density function
 
 高斯分布，$N (μ, σ^2)$，有概率密度函数
 
